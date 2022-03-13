@@ -11,4 +11,4 @@
 
 <h3>My GitHub Stats</h3>
 
-[![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moenuma&count_private=true&show_icons=true&theme=dark)](https://github.com/moenuma/github-readme-stats)
+[![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moenuma&count_private=true&show_icons=true&theme=dark)]
