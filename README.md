@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moe Numasawa</h1>
+<h1>Hi, I'm Moe Numasawa</h1>
 <ul>
   <li>A passionate third-year student at the University of Alberta, majoring in computing science.</li>
   <li>My inquiring mind never stops me from learning more about software engineering every single day!!</li>
