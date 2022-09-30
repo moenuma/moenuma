@@ -8,6 +8,8 @@
   :jp: I was born and raised in Japan <br>
   :malaysia: I moved to Malaysia with my family when I was 14 and finished my highschool there <br>
   :canada: I'm currently living in Canada since I was 18! <br>
+  
+ <h4>Check out my portfolio website to learn more about me -> https://moenuma.github.io/</h4>
 
 <h3>My GitHub Stats</h3>
 
