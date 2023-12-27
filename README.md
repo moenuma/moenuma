@@ -10,7 +10,3 @@
   :canada: I'm currently living in Canada since I was 18! <br>
   
  <h4>Check out my portfolio website to learn more about me -> https://moenuma.github.io/</h4>
-
-<h3>My GitHub Stats</h3>
-
-![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moenuma&count_private=true&show_icons=true&theme=dark)
